@@ -14,3 +14,5 @@ Free and open source.
 ### 🧪 What's next
 
 More game tools, mods and experiments. Ideas and bug reports are always welcome in the issues.
+
+If something I made makes your day a bit better, you can [buy me a coffee](https://buymeacoffee.com/maxvelx) ☕
